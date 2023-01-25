@@ -1,6 +1,6 @@
 # Hola ¿Qué tal? ✌️
 
-![Ramon Aguirre](https://readme-typing-svg.herokuapp.com/?font=Inter&color=FF3F44&size=30&weight=700&lines=Llamame+Ramón+Aguirre;RayLex)
+![Ramon Aguirre](https://readme-typing-svg.herokuapp.com/?font=Inter&color=D5EDBB&size=30&weight=700&lines=Soy+Ramón+Aguirre;RayLex)
 
 ## Hola soy un estudiante de ingeniería software. 
 
